@@ -2,7 +2,7 @@
 
 > **1500₽**
 
-# Задача 11 
+# Задача 12  
 
 **Ориентированный граф**  
 > Разработать обобщенный класс `Graph<N, L>` - класс для описания ориентированных графов 
@@ -55,6 +55,7 @@ Directed-Graph/
 ├── Graphs/
 │   ├── ArrayGraph.cs
 │   ├── LinkedGraphNode.cs
+│   ├── IGraph.cs
 │   ├── LinkedGraph.cs
 │   └── UnmutableGraph.cs
 ├── Exceptions/

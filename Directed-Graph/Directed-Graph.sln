@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Directed-Graph", "Directed-Graph\Directed-Graph.csproj", "{758CA2A3-CAA7-4F64-83D2-55DF38F361BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{758CA2A3-CAA7-4F64-83D2-55DF38F361BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{758CA2A3-CAA7-4F64-83D2-55DF38F361BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{758CA2A3-CAA7-4F64-83D2-55DF38F361BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{758CA2A3-CAA7-4F64-83D2-55DF38F361BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D7A8A979-22CF-4D4E-BEB7-99252FAD53FB}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VSU-Labs-git\\5-sem\\CSharp\\2-lab\\12\\Directed-Graph\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{758CA2A3-CAA7-4F64-83D2-55DF38F361BC}|Directed-Graph\\Directed-Graph.csproj|d:\\vsu-labs-git\\5-sem\\csharp\\2-lab\\12\\directed-graph\\directed-graph\\testprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{758CA2A3-CAA7-4F64-83D2-55DF38F361BC}|Directed-Graph\\Directed-Graph.csproj|solutionrelative:directed-graph\\testprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{758CA2A3-CAA7-4F64-83D2-55DF38F361BC}|Directed-Graph\\Directed-Graph.csproj|d:\\vsu-labs-git\\5-sem\\csharp\\2-lab\\12\\directed-graph\\directed-graph\\graphs\\unmutablegraph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{758CA2A3-CAA7-4F64-83D2-55DF38F361BC}|Directed-Graph\\Directed-Graph.csproj|solutionrelative:directed-graph\\graphs\\unmutablegraph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{758CA2A3-CAA7-4F64-83D2-55DF38F361BC}|Directed-Graph\\Directed-Graph.csproj|d:\\vsu-labs-git\\5-sem\\csharp\\2-lab\\12\\directed-graph\\directed-graph\\utilities\\graphutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{758CA2A3-CAA7-4F64-83D2-55DF38F361BC}|Directed-Graph\\Directed-Graph.csproj|solutionrelative:directed-graph\\utilities\\graphutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{758CA2A3-CAA7-4F64-83D2-55DF38F361BC}|Directed-Graph\\Directed-Graph.csproj|d:\\vsu-labs-git\\5-sem\\csharp\\2-lab\\12\\directed-graph\\directed-graph\\graphs\\igraph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{758CA2A3-CAA7-4F64-83D2-55DF38F361BC}|Directed-Graph\\Directed-Graph.csproj|solutionrelative:directed-graph\\graphs\\igraph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{758CA2A3-CAA7-4F64-83D2-55DF38F361BC}|Directed-Graph\\Directed-Graph.csproj|d:\\vsu-labs-git\\5-sem\\csharp\\2-lab\\12\\directed-graph\\directed-graph\\graphs\\linkedgraph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{758CA2A3-CAA7-4F64-83D2-55DF38F361BC}|Directed-Graph\\Directed-Graph.csproj|solutionrelative:directed-graph\\graphs\\linkedgraph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{758CA2A3-CAA7-4F64-83D2-55DF38F361BC}|Directed-Graph\\Directed-Graph.csproj|d:\\vsu-labs-git\\5-sem\\csharp\\2-lab\\12\\directed-graph\\directed-graph\\graphs\\linkedgraphnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{758CA2A3-CAA7-4F64-83D2-55DF38F361BC}|Directed-Graph\\Directed-Graph.csproj|solutionrelative:directed-graph\\graphs\\linkedgraphnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{758CA2A3-CAA7-4F64-83D2-55DF38F361BC}|Directed-Graph\\Directed-Graph.csproj|d:\\vsu-labs-git\\5-sem\\csharp\\2-lab\\12\\directed-graph\\directed-graph\\graphs\\arraygraph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{758CA2A3-CAA7-4F64-83D2-55DF38F361BC}|Directed-Graph\\Directed-Graph.csproj|solutionrelative:directed-graph\\graphs\\arraygraph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{758CA2A3-CAA7-4F64-83D2-55DF38F361BC}|Directed-Graph\\Directed-Graph.csproj|d:\\vsu-labs-git\\5-sem\\csharp\\2-lab\\12\\directed-graph\\directed-graph\\exceptions\\argumentnullgraphexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{758CA2A3-CAA7-4F64-83D2-55DF38F361BC}|Directed-Graph\\Directed-Graph.csproj|solutionrelative:directed-graph\\exceptions\\argumentnullgraphexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{758CA2A3-CAA7-4F64-83D2-55DF38F361BC}|Directed-Graph\\Directed-Graph.csproj|d:\\vsu-labs-git\\5-sem\\csharp\\2-lab\\12\\directed-graph\\directed-graph\\exceptions\\graphexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{758CA2A3-CAA7-4F64-83D2-55DF38F361BC}|Directed-Graph\\Directed-Graph.csproj|solutionrelative:directed-graph\\exceptions\\graphexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{758CA2A3-CAA7-4F64-83D2-55DF38F361BC}|Directed-Graph\\Directed-Graph.csproj|d:\\vsu-labs-git\\5-sem\\csharp\\2-lab\\12\\directed-graph\\directed-graph\\exceptions\\nullreferencegraphexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{758CA2A3-CAA7-4F64-83D2-55DF38F361BC}|Directed-Graph\\Directed-Graph.csproj|solutionrelative:directed-graph\\exceptions\\nullreferencegraphexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{758CA2A3-CAA7-4F64-83D2-55DF38F361BC}|Directed-Graph\\Directed-Graph.csproj|d:\\vsu-labs-git\\5-sem\\csharp\\2-lab\\12\\directed-graph\\directed-graph\\exceptions\\unmetblegraphexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{758CA2A3-CAA7-4F64-83D2-55DF38F361BC}|Directed-Graph\\Directed-Graph.csproj|solutionrelative:directed-graph\\exceptions\\unmetblegraphexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{758CA2A3-CAA7-4F64-83D2-55DF38F361BC}|Directed-Graph\\Directed-Graph.csproj|d:\\vsu-labs-git\\5-sem\\csharp\\2-lab\\12\\directed-graph\\directed-graph\\utilities\\testclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{758CA2A3-CAA7-4F64-83D2-55DF38F361BC}|Directed-Graph\\Directed-Graph.csproj|solutionrelative:directed-graph\\utilities\\testclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{758CA2A3-CAA7-4F64-83D2-55DF38F361BC}|Directed-Graph\\Directed-Graph.csproj|d:\\vsu-labs-git\\5-sem\\csharp\\2-lab\\12\\directed-graph\\directed-graph\\directed-graph.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{758CA2A3-CAA7-4F64-83D2-55DF38F361BC}|Directed-Graph\\Directed-Graph.csproj|solutionrelative:directed-graph\\directed-graph.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LinkedGraphNode.cs",
+              "DocumentMoniker": "D:\\VSU-Labs-git\\5-sem\\CSharp\\2-lab\\12\\Directed-Graph\\Directed-Graph\\Graphs\\LinkedGraphNode.cs",
+              "RelativeDocumentMoniker": "Directed-Graph\\Graphs\\LinkedGraphNode.cs",
+              "ToolTip": "D:\\VSU-Labs-git\\5-sem\\CSharp\\2-lab\\12\\Directed-Graph\\Directed-Graph\\Graphs\\LinkedGraphNode.cs",
+              "RelativeToolTip": "Directed-Graph\\Graphs\\LinkedGraphNode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T03:51:06.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ArgumentNullGraphException.cs",
+              "DocumentMoniker": "D:\\VSU-Labs-git\\5-sem\\CSharp\\2-lab\\12\\Directed-Graph\\Directed-Graph\\Exceptions\\ArgumentNullGraphException.cs",
+              "RelativeDocumentMoniker": "Directed-Graph\\Exceptions\\ArgumentNullGraphException.cs",
+              "ToolTip": "D:\\VSU-Labs-git\\5-sem\\CSharp\\2-lab\\12\\Directed-Graph\\Directed-Graph\\Exceptions\\ArgumentNullGraphException.cs",
+              "RelativeToolTip": "Directed-Graph\\Exceptions\\ArgumentNullGraphException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T03:24:07.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UnmetbleGraphException.cs",
+              "DocumentMoniker": "D:\\VSU-Labs-git\\5-sem\\CSharp\\2-lab\\12\\Directed-Graph\\Directed-Graph\\Exceptions\\UnmetbleGraphException.cs",
+              "RelativeDocumentMoniker": "Directed-Graph\\Exceptions\\UnmetbleGraphException.cs",
+              "ToolTip": "D:\\VSU-Labs-git\\5-sem\\CSharp\\2-lab\\12\\Directed-Graph\\Directed-Graph\\Exceptions\\UnmetbleGraphException.cs",
+              "RelativeToolTip": "Directed-Graph\\Exceptions\\UnmetbleGraphException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T03:22:01.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NullReferenceGraphException.cs",
+              "DocumentMoniker": "D:\\VSU-Labs-git\\5-sem\\CSharp\\2-lab\\12\\Directed-Graph\\Directed-Graph\\Exceptions\\NullReferenceGraphException.cs",
+              "RelativeDocumentMoniker": "Directed-Graph\\Exceptions\\NullReferenceGraphException.cs",
+              "ToolTip": "D:\\VSU-Labs-git\\5-sem\\CSharp\\2-lab\\12\\Directed-Graph\\Directed-Graph\\Exceptions\\NullReferenceGraphException.cs",
+              "RelativeToolTip": "Directed-Graph\\Exceptions\\NullReferenceGraphException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T03:13:22.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IGraph.cs",
+              "DocumentMoniker": "D:\\VSU-Labs-git\\5-sem\\CSharp\\2-lab\\12\\Directed-Graph\\Directed-Graph\\Graphs\\IGraph.cs",
+              "RelativeDocumentMoniker": "Directed-Graph\\Graphs\\IGraph.cs",
+              "ToolTip": "D:\\VSU-Labs-git\\5-sem\\CSharp\\2-lab\\12\\Directed-Graph\\Directed-Graph\\Graphs\\IGraph.cs",
+              "RelativeToolTip": "Directed-Graph\\Graphs\\IGraph.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T03:07:29.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GraphException.cs",
+              "DocumentMoniker": "D:\\VSU-Labs-git\\5-sem\\CSharp\\2-lab\\12\\Directed-Graph\\Directed-Graph\\Exceptions\\GraphException.cs",
+              "RelativeDocumentMoniker": "Directed-Graph\\Exceptions\\GraphException.cs",
+              "ToolTip": "D:\\VSU-Labs-git\\5-sem\\CSharp\\2-lab\\12\\Directed-Graph\\Directed-Graph\\Exceptions\\GraphException.cs",
+              "RelativeToolTip": "Directed-Graph\\Exceptions\\GraphException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T03:05:51.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnmutableGraph.cs",
+              "DocumentMoniker": "D:\\VSU-Labs-git\\5-sem\\CSharp\\2-lab\\12\\Directed-Graph\\Directed-Graph\\Graphs\\UnmutableGraph.cs",
+              "RelativeDocumentMoniker": "Directed-Graph\\Graphs\\UnmutableGraph.cs",
+              "ToolTip": "D:\\VSU-Labs-git\\5-sem\\CSharp\\2-lab\\12\\Directed-Graph\\Directed-Graph\\Graphs\\UnmutableGraph.cs",
+              "RelativeToolTip": "Directed-Graph\\Graphs\\UnmutableGraph.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T03:05:41.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LinkedGraph.cs",
+              "DocumentMoniker": "D:\\VSU-Labs-git\\5-sem\\CSharp\\2-lab\\12\\Directed-Graph\\Directed-Graph\\Graphs\\LinkedGraph.cs",
+              "RelativeDocumentMoniker": "Directed-Graph\\Graphs\\LinkedGraph.cs",
+              "ToolTip": "D:\\VSU-Labs-git\\5-sem\\CSharp\\2-lab\\12\\Directed-Graph\\Directed-Graph\\Graphs\\LinkedGraph.cs",
+              "RelativeToolTip": "Directed-Graph\\Graphs\\LinkedGraph.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAA9wCUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T03:05:32.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ArrayGraph.cs",
+              "DocumentMoniker": "D:\\VSU-Labs-git\\5-sem\\CSharp\\2-lab\\12\\Directed-Graph\\Directed-Graph\\Graphs\\ArrayGraph.cs",
+              "RelativeDocumentMoniker": "Directed-Graph\\Graphs\\ArrayGraph.cs",
+              "ToolTip": "D:\\VSU-Labs-git\\5-sem\\CSharp\\2-lab\\12\\Directed-Graph\\Directed-Graph\\Graphs\\ArrayGraph.cs",
+              "RelativeToolTip": "Directed-Graph\\Graphs\\ArrayGraph.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAAAHUAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T03:05:14.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TestClass.cs",
+              "DocumentMoniker": "D:\\VSU-Labs-git\\5-sem\\CSharp\\2-lab\\12\\Directed-Graph\\Directed-Graph\\Utilities\\TestClass.cs",
+              "RelativeDocumentMoniker": "Directed-Graph\\Utilities\\TestClass.cs",
+              "ToolTip": "D:\\VSU-Labs-git\\5-sem\\CSharp\\2-lab\\12\\Directed-Graph\\Directed-Graph\\Utilities\\TestClass.cs",
+              "RelativeToolTip": "Directed-Graph\\Utilities\\TestClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T03:05:00.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GraphUtils.cs",
+              "DocumentMoniker": "D:\\VSU-Labs-git\\5-sem\\CSharp\\2-lab\\12\\Directed-Graph\\Directed-Graph\\Utilities\\GraphUtils.cs",
+              "RelativeDocumentMoniker": "Directed-Graph\\Utilities\\GraphUtils.cs",
+              "ToolTip": "D:\\VSU-Labs-git\\5-sem\\CSharp\\2-lab\\12\\Directed-Graph\\Directed-Graph\\Utilities\\GraphUtils.cs",
+              "RelativeToolTip": "Directed-Graph\\Utilities\\GraphUtils.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T03:04:48.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Directed-Graph.csproj",
+              "DocumentMoniker": "D:\\VSU-Labs-git\\5-sem\\CSharp\\2-lab\\12\\Directed-Graph\\Directed-Graph\\Directed-Graph.csproj",
+              "RelativeDocumentMoniker": "Directed-Graph\\Directed-Graph.csproj",
+              "ToolTip": "D:\\VSU-Labs-git\\5-sem\\CSharp\\2-lab\\12\\Directed-Graph\\Directed-Graph\\Directed-Graph.csproj",
+              "RelativeToolTip": "Directed-Graph\\Directed-Graph.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-13T03:03:26.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestProgram.cs",
+              "DocumentMoniker": "D:\\VSU-Labs-git\\5-sem\\CSharp\\2-lab\\12\\Directed-Graph\\Directed-Graph\\TestProgram.cs",
+              "RelativeDocumentMoniker": "Directed-Graph\\TestProgram.cs",
+              "ToolTip": "D:\\VSU-Labs-git\\5-sem\\CSharp\\2-lab\\12\\Directed-Graph\\Directed-Graph\\TestProgram.cs",
+              "RelativeToolTip": "Directed-Graph\\TestProgram.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAuwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T03:02:06.152Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
